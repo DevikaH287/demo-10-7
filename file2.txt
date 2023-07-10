@@ -1,0 +1,8 @@
+Pressing i gives the ability to add/modify/delete data in this file.
+Press esc
+<<<<<<< HEAD
+0987654
+=======
+hello
+hi
+>>>>>>> master
